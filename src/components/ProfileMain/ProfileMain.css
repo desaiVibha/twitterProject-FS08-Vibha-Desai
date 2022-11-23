@@ -1,0 +1,46 @@
+
+.cover{
+    background-image: url("https://pbs.twimg.com/profile_banners/1463467434/1606724884/1500x500");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 180px;
+    position: relative;
+}
+.profile-img{
+    width:160px;
+    height: 160px;
+    border: 4px solid white;
+    border-radius: 50%;
+    left:20px;
+    position: absolute;
+    top:80px;
+}
+.follow-btn-container{
+    padding:12px;
+}
+.follow-btn{
+    color: white;
+    background-color: black;
+    padding: 4px 16px;
+    height:36px;
+    border:1px solid black;
+    border-radius: 34px;
+    font-weight: bold;
+
+}
+ul{
+    display: flex;
+    justify-content: space-around;
+    padding-left: 0 !important;/*by default ul has some padding. so we removed it.*/
+    list-style-type: none;
+    width:100%;
+    top:250px;
+}
+ul a{
+    color: rgb(83, 100, 113);
+    text-decoration: none !important;
+}
+.ptweets{
+    top:300px;
+}

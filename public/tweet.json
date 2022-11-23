@@ -1,0 +1,57 @@
+[
+{
+    "authorName": "Jordon Walke",
+    "authorimage":"https://thediffpodcast.com/assets/images/jordan-2c43ff762e625d49ea58424e3e74188a.jpg",
+    "text":"After ten years, I am leaving Facebook.I am starting a company.",
+    "handle":"@jordewalke",
+    "likes":"56.5k",
+    "retweets":"100k",
+    "comments":"5k",
+    "time":".22h",
+    "id":"id1"
+},
+{
+    "authorName": "Bill Gates",
+    "authorimage":"https://pbs.twimg.com/profile_images/1564398871996174336/M-hffw5a_400x400.jpg",
+    "text":"Iam in Kenya this week to learn from researchers, innovators, students, and leaders about what is working, what is not, and how the foundation can better support progress in Kenya and across the continent.",
+    "handle":"@BillGates",
+    "likes":"80.5k",
+    "retweets":"4134k",
+    "comments":"50k",
+    "time":"Nov 1,2022",
+    "id":"id2"
+},
+{
+    "authorName": "Elon Musk",
+    "authorimage":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Elon_Musk_Royal_Society_%28crop2%29.jpg/1200px-Elon_Musk_Royal_Society_%28crop2%29.jpg",
+    "text":"Twitter is like open-sourcing the news.",
+    "handle":"@elonmusk",
+    "likes":"100k",
+    "retweets":"3144k",
+    "comments":"500k",
+    "time":"Nov 10,2022",
+    "id":"id3"
+},
+{
+    "authorName": "Rishi Sunak",
+    "authorimage":"https://ichef.bbci.co.uk/news/976/cpsprodpb/390D/production/_127650641_sunak4reuters.jpg",
+    "text":"Together we can achieve incredible things.",
+    "handle":"@RishiSunak",
+    "likes":"50k",
+    "retweets":"300k",
+    "comments":"5000k",
+    "time":"Nov 15,2022",
+    "id":"id4"
+},
+{
+    "authorName": "Virat Kohli",
+    "authorimage":"https://hindi.cdn.zeenews.com/hindi/sites/default/files/styles/zm_700x400/public/2022/11/17/1429845-virat-kohli-t20-world-cup.jpg?itok=B_2QJyOl",
+    "text":"Only Indian to achieve No 1 ranking in All formats..",
+    "handle":"@iamkohli",
+    "likes":"500k",
+    "retweets":"3000k",
+    "comments":"6000k",
+    "time":"Oct 30,2022",
+    "id":"id5"
+}
+]

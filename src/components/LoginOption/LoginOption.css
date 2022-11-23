@@ -1,0 +1,29 @@
+.card{
+    margin: 12px 30px;
+    border-radius: 12px !important;
+    position: sticky !important;
+    top:0;
+}
+.card-body{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+p{
+    text-align: left;
+}
+.card-text{
+    font-size: small;
+}
+.btn{
+    width: 80%;
+    margin:12px;
+    border-radius: 72px !important;
+}
+.btn-primary{
+    color: black !important;
+}
+.agreement{
+    font-size: smaller;
+    text-decoration: none !important;
+}

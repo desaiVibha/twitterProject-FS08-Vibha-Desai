@@ -1,0 +1,65 @@
+.search-box{
+    background-color: rgb(239, 243, 244);
+    border-radius: 45px;
+    margin: 24px;
+    padding: 6px;
+    padding-left: 24px;
+    width:85%;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    margin-top: 8px;
+    
+}
+.stick{
+    position: sticky;
+    background-color: white;
+    top: 0;
+}
+.feed-top{
+    display: flex;
+    /*justify-content: space-around;*/
+    align-items: center;
+}
+.search-box input{
+    background-color: transparent;
+    border: none;
+    height: 36px;
+    margin-left: 12px;
+}
+ul{
+    display: flex;
+    justify-content: space-around;
+    padding-left: 0 !important;/*by default ul has some padding. so we removed it.*/
+    list-style-type: none;
+}
+ul a{
+    color: rgb(83, 100, 113);
+    text-decoration: none !important;
+}
+.banner{
+    height: 320px;
+    border: 1px solid lightblue;
+    background-image: url("https://d2ms8rpfqc4h24.cloudfront.net/React_18_New_features_a9ebb05f34.jpg");
+    /*background-repeat: no-repeat;*/
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+    padding: 16px;
+}
+
+.banner_small{
+    color: white;
+    font-size: smaller;
+    margin: 0;
+}
+.banner_large{
+    color: white;
+    font-size: large;
+    font-weight: bold;
+    margin: 0;
+}
+hr{
+    color: lightblue;
+}

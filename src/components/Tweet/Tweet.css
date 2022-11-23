@@ -1,0 +1,36 @@
+.tweet-box{
+    display: flex;
+    justify-content: flex-start;
+}
+.tweet-footer{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 12px;
+}
+
+
+/*.content-box{
+    display: flex;
+    flex-direction: column;
+    /*align-items: flex-start;
+}*/
+.tweet-text{
+    font-size: smaller;
+}
+.left-box{
+    width:9%;
+}
+.content-box{
+    display: flex;
+    flex-direction: column;
+    padding-left: 10px;
+    width:91%;    
+}
+img{
+    border-radius: 48%;
+    
+}
+.header{
+    display: flex;
+    justify-content: flex-start;
+}

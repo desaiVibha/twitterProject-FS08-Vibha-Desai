@@ -1,0 +1,57 @@
+[
+    {
+        "authorName": "Jordon Walke",
+        "authorimage":"https://thediffpodcast.com/assets/images/jordan-2c43ff762e625d49ea58424e3e74188a.jpg",
+        "text":"After ten years, I am leaving Facebook.I am starting a company.",
+        "handle":"@jordewalke",
+        "likes":"56.5k",
+        "retweets":"100k",
+        "comments":"5k",
+        "time":"Jan 09, 2021",
+        "id":"id5"
+    },
+    {
+        "authorName": "Jordon Walke",
+        "authorimage":"https://thediffpodcast.com/assets/images/jordan-2c43ff762e625d49ea58424e3e74188a.jpg",
+        "text":"At Facebook, when we were under existential threat from Google Plus, Zuck gathered everyone around the Palo Alto office and gave a passionate rallying cry - a call to be extremely hardcore (in twitter speak) which we called “Lockdown”. The kitchens were open on weekends..We won!",
+        "handle":"@jordewalke",
+        "likes":"30k",
+        "retweets":"10k",
+        "comments":"1000",
+        "time":"Nov 17, 2022",
+        "id":"id6"
+    },
+    {
+        "authorName": "Jordon Walke",
+        "authorimage":"https://thediffpodcast.com/assets/images/jordan-2c43ff762e625d49ea58424e3e74188a.jpg",
+        "text":"Elon could be like “static types are good” and then people would knee-jerk delete their typescript annotations.",
+        "handle":"@jordewalke",
+        "likes":"233",
+        "retweets":"40",
+        "comments":"30",
+        "time":"Nov 15, 2022",
+        "id":"id7"
+    },
+    {
+        "authorName": "Jordon Walke",
+        "authorimage":"https://thediffpodcast.com/assets/images/jordan-2c43ff762e625d49ea58424e3e74188a.jpg",
+        "text":"Somebody hass gotta write the code that Ai is trained on.",
+        "handle":"@jordewalke",
+        "likes":"500",
+        "retweets":"50",
+        "comments":"30",
+        "time":"Nov 7, 2022",
+        "id":"id8"
+    },
+    {
+        "authorName": "Jordon Walke",
+        "authorimage":"https://thediffpodcast.com/assets/images/jordan-2c43ff762e625d49ea58424e3e74188a.jpg",
+        "text":"Many people did not even need server powered react to make the choice clear. Rendering in same language that handles UI events is a big selling point by itself. But it is cool that people can also get the remaining advantages of PHP’s model in “client” rendered frameworks.",
+        "handle":"@jordewalke",
+        "likes":"1k",
+        "retweets":"200",
+        "comments":"36",
+        "time":"Nov 2, 2022",
+        "id":"id9"
+    }
+]
